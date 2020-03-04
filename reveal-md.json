@@ -1,0 +1,4 @@
+{
+    "theme": "./theme/iteratec.css",
+    "css": ["./theme/custom.css"]
+}
